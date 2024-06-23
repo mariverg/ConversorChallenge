@@ -20,8 +20,7 @@ Este proyecto es una aplicación de escritorio en Java que permite a los usuario
 1. Clonar el repositorio:
 
     ```bash
-    git clone https://github.com/tu_usuario/conversor-monedas.git
-    cd conversor-monedas
+        https://github.com/mariverg/ConversorChallenge
     ```
 
 2. Compilar y ejecutar el proyecto:
